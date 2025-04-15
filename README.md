@@ -6,7 +6,7 @@ Lang:
 
 ![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin)
 
-![](https://skillicons.dev/icons?i=html,css,latex,R)
+![](https://skillicons.dev/icons?i=html,css,latex,r)
 
 Flamework/Library:
 
