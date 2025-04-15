@@ -1,7 +1,7 @@
 # self-introduction
 I'm a graduate student at Kyoto Institute of Technology.
 
-## できること
+## Technical Skills
 Lang: 
 
 ![](https://skillicons.dev/icons?i=c,cs,py,java)
