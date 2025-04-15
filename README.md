@@ -1,5 +1,5 @@
 # self-introduction
-A brief introduction.
+I'm a graduate student at Kyoto Institute of Technology.
 
 ## できること
 Lang: 
