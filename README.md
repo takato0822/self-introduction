@@ -4,7 +4,7 @@ I'm a graduate student at Kyoto Institute of Technology.
 ## Technical Skills
 Lang: 
 
-![](https://skillicons.dev/icons?i=c,cs,py,java)
+![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin)
 
 ![](https://skillicons.dev/icons?i=html,css,latex)
 
@@ -14,4 +14,4 @@ Flamework/Library:
 
 Misc:
 
-![](https://skillicons.dev/icons?i=vscode,linux,git,github,unity,blender)
+![](https://skillicons.dev/icons?i=vscode,eclipse,discord,linux,git,github,bitbucket,unity,blender)
